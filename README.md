@@ -24,13 +24,18 @@
 
 ## **Dataset**
 
-All the data used in this project are from [State Farm Distracted Driver Detection Competition](https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/overview). This dataset has ten different classes (e.g. safe driving, texting, drinking, etc.). There are 22424 2D dashboard camera images in the dataset.
+All the data used in this project are from [State Farm Distracted Driver Detection Competition](https://www.kaggle.com/competitions/sstate-farm-distracted-driver-detection/overview). This dataset has ten different classes (e.g. safe driving, texting, drinking, etc.). There are 22424 2D dashboard camera images in the dataset.
 
 ## **Training Process**
 
+* **Image Augmentation:** Apply some data augmentation methods from `torchvision.transforms` (e.g.RandomPerspective, Normalize) on the train/val dataset.
+* **Fine-Tuning Pretrained Models:** Train the image dataset on different pretrained models (e.g.densenet121, EfficientNet_B0, mobilenet_v3_large).
+* **Ensemble Methods:** Implement ensemble methods (e.g.Majority vote, Average likelihood, Weighted Majority) to boost the performance of the models.
+* **Evaluation:** Evaluate the models on the test set and customized dataset. Display the predictions on images and make a demonstration video.
+
 ## **Results and Demonstration**
 
-<center><img src="Demo.gif" width=450px /></center>
+<center><img src="Demo.gif" widsth=400px /></center>
 
 ## **Licence**
 
