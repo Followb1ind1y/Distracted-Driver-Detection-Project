@@ -33,19 +33,20 @@ All the data used in this project are from [State Farm Distracted Driver Detecti
 * **Ensemble Methods:** Implement ensemble methods (e.g.Majority vote, Average likelihood, Weighted Majority) to boost the performance of the models.
 * **Evaluation:** Evaluate the models on the test set and customized dataset. Display the predictions on images and make a demonstration video.
 
-## **Results and Demonstration**
+## **Results**
 
 |Model Name| Test Accuracy| Customized Dataset Accuracy|
 |--|--|--|
-|DenseNet (Without Data Augmentation)|0.86862|0.39552|
-| EfficientNet B0 (Without Data Augmentation)|0.94407|0.32089|
-| MobileNet V3 (Without Data Augmentation)|0.90767|0.49545|
+|DenseNet (Without Data Augmentation)|0.86862|-|
+| EfficientNet B0 (Without Data Augmentation)|0.94407|-|
+| MobileNet V3 (Without Data Augmentation)|0.90767|-|
 |DenseNet|0.89968| 0.68|
 | EfficientNet B0|0.96848|0.84|
 | MobileNet V3|0.94673|0.8775|
 |Ensemble Model (Majority Vote)| 0.96919|0.9825|
 |Ensemble Model (Average likelihood)| 0.97991|0.93|
 
+## **Demonstration**
 
 <center><img src="Demo.gif" width=450px /></center>
 
