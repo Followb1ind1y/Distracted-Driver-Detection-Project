@@ -24,7 +24,7 @@
 
 ## **Dataset**
 
-All the data used in this project are from [State Farm Distracted Driver Detection Competition](https://www.kaggle.com/competitions/sstate-farm-distracted-driver-detection/overview). This dataset has ten different classes (e.g. safe driving, texting, drinking, etc.). There are 22424 2D dashboard camera images in the dataset.
+All the training data used in this project are from [State Farm Distracted Driver Detection Competition](https://www.kaggle.com/competitions/sstate-farm-distracted-driver-detection/overview). This dataset has ten different classes (e.g. safe driving, texting, drinking, etc.). There are 22424 2D dashboard camera images in the dataset. A customized dataset was also used in this project to test the generality of models. The customized dataset contains 946 dashboard camera images for ten classes.
 
 ## **Training Process**
 
