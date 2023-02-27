@@ -44,7 +44,7 @@ All the training data used in this project are from [State Farm Distracted Drive
 | EfficientNet B0|0.96848|0.84|
 | MobileNet V3|0.94673|0.8775|
 |Ensemble Model (Majority Vote)| 0.96919|0.9825|
-|Ensemble Model (Average likelihood)| 0.97991|0.93|
+|Ensemble Model (Average Likelihood)| 0.97991|0.93|
 
 ## **Demonstration**
 
