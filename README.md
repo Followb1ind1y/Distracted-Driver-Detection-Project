@@ -35,7 +35,7 @@ All the data used in this project are from [State Farm Distracted Driver Detecti
 
 ## **Results and Demonstration**
 
-<center><img src="Demo.gif" widsth=400px /></center>
+<center><img src="Demo.gif" widsth=300px /></center>
 
 ## **Licence**
 
