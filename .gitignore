@@ -1,0 +1,5 @@
+imgs/
+train_split/
+Output/
+.DS_Store
+*.csv
