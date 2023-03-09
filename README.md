@@ -10,7 +10,7 @@
 <a href="https://colab.research.google.com/github/Followb1ind1y/Distracted_Driver_Detection_Project/blob/main/ML_Algorithms_Boosting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>       
 </p>
 
-# **State Farm Distracted Driver Detection Project**
+# **State Farm Distracted Driver Detection**
 
 ## **About**
 
